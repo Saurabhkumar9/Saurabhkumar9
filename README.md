@@ -1,7 +1,8 @@
-# 💫 About Me:  I’m a MERN Stack Developer working on full-stack web and mobile applications.
-# I build user-friendly interfaces using React.js and React Native.
-# I use TanStack Query (React Query) for efficient data fetching and state management.
-# Currently focused on building scalable, real-world applications
+# 💫 About Me:
+  I’m a MERN Stack Developer working on full-stack web and mobile applications.
+ I build user-friendly interfaces using React.js and React Native.
+ I use TanStack Query (React Query) for efficient data fetching and state management.
+ Currently focused on building scalable, real-world applications
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
