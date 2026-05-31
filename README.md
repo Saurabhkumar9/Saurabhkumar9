@@ -40,7 +40,7 @@
 ⚡ Fun Fact
 I independently designed, developed, deployed, and maintain a production-grade ERP with 205+ APIs, real-time location tracking, and mobile applications used by real operational teams.
 
-## 🌐 Socials:
+
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saurabhkumaryadav356)
