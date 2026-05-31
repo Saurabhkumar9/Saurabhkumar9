@@ -99,3 +99,7 @@ I independently designed, developed, deployed, and maintain a production-grade E
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Saurabhkumar9/Saurabhkumar9/output/github-contribution-grid-snake.svg)
