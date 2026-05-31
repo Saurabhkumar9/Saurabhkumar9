@@ -99,13 +99,9 @@ I independently designed, developed, deployed, and maintain a production-grade E
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 # 📊 GitHub Stats
 
-<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=Saurabhkumar9&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saurabhkumar9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+![](https://nirzak-streak-stats.vercel.app/?user=Saurabhkumar9&theme=tokyonight&hide_border=false)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhkumar9&layout=compact&langs_count=8&theme=tokyonight"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Saurabhkumar9&theme=tokyonight"/>
-
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhkumar9&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
